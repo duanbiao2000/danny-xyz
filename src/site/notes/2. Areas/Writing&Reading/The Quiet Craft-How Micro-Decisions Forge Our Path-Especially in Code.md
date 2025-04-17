@@ -11,7 +11,7 @@ We often fixate on grand ambitions, the glittering peaks of personal achievement
 
 The core idea is deceptively simple: **our most significant trajectories aren't typically dictated by singular, dramatic leaps, but are instead paved by the countless small, everyday, often seemingly insignificant choices we make.** These micro-decisions form the unseen architecture of our progress, the very bedrock upon which eventual success—or stagnation—is built.
 
-What are these micro-decisions? They're the seemingly minor forks in the road we encounter constantly. After a long day of classes or work: Do I spend 30 minutes wrestling with that tricky algorithm concept, or default to the effortless scroll of a social media feed? Faced with a programming bug: Do I invest the time to truly understand the underlying documentation and principles, or reach for the quick-fix snippet that merely papers over the crack? The choice between reading a challenging technical article versus passively consuming lighter entertainment. The flicker of hesitation before deciding whether to voice a question (or offer an answer) in an online forum, weighing the potential for learning against the fear of seeming inadequate. The subtle internal negotiation between crafting a feature with care and precision, versus settling for "good enough."
+What are these micro-decisions? They're the seemingly minor forks in the road we encounter constantly. After a long day of classes or work: Do I spend 30 minutes wrestling with that tricky algorithm concept, or default to the effortless scroll of a social media feed? Faced with a programming bug: Do I invest the time to truly understand the underlying documentation and principles, or reach for the quick-fix snippet that merely papers over the crack[^2]? The choice between reading a challenging technical article versus passively consuming lighter entertainment. The flicker of hesitation[^3] before deciding whether to voice a question (or offer an answer) in an online forum, weighing the potential for learning against the fear of seeming inadequate. The subtle internal negotiation between crafting[^4] a feature with care and precision, versus settling for "good enough."
 
 > *"We are the product of our habits" - Sean Covey*
 
@@ -21,7 +21,7 @@ Individually, each choice feels almost negligible. A single decision rarely feel
 
 Contemplating the goal of "integrating into the modern world via excellent coding skills," the resonance of micro-decisions becomes strikingly clear across several dimensions:
 
-1.  **The Ascent to Skill Mastery:** True fluency and artisanship in code aren't born from a single epiphany or a capstone project alone. They are painstakingly assembled through thousands of these micro-choices. That daily `git commit`, however small. The conscious decision to grapple with a lower-level tool to grasp the fundamentals, rather than always relying on convenient abstractions. Spending that extra ten minutes to truly decipher an error message's root cause, resisting the urge for a superficial patch. Proactively choosing to refactor yesterday's less-than-elegant code. Opting to tackle a more challenging language or paradigm (like functional programming) precisely because it stretches cognitive limits. These aren't grand gestures; they are the quiet, persistent acts of discipline that, brick by brick, transform proficiency from mere utility into genuine craft.
+1.  **The Ascent to Skill Mastery[^5]:** True fluency and artisanship in code aren't born from a single epiphany or a capstone project alone. They are painstakingly assembled through thousands of these micro-choices. That daily `git commit`, however small. The conscious decision to grapple with a lower-level tool to grasp the fundamentals, rather than always relying on convenient abstractions. Spending that extra ten minutes to truly decipher an error message's root cause, resisting the urge for a superficial patch. Proactively choosing to refactor yesterday's less-than-elegant code. Opting to tackle a more challenging language or paradigm (like functional programming) precisely because it stretches cognitive limits. These aren't grand gestures; they are the quiet, persistent acts of discipline that, brick by brick, transform proficiency from mere utility into genuine craft.
 
 2.  **Building Cognitive Scaffolding & Understanding:** "Integrating" implies more than just holding a job; it suggests a deeper comprehension of the technologically interwoven world we inhabit. This, too, is built through micro-decisions. Choosing to read tech journalism that explores industry trends and ethical quandaries. Attempting to understand the basic principles of complex systems—operating systems, databases—even if it's not immediately required. Deliberately paying attention to adjacent fields like product design, user experience, or business models. Making the small effort to converse with people from different backgrounds to grasp how technology shapes their realities. These choices expand our aperture, moving us beyond the role of mere implementer towards becoming a thoughtful participant who understands not just the *how*, but the *why* and the *so what* of technology's role.
 
@@ -44,3 +44,11 @@ Ultimately, the ambitious pursuit of integrating meaningfully into our world thr
 
 
 [^1]: 在这句话中，“eclipses”是指“超越”或“胜过”的意思。整个表达“Consistency Eclipses Sporadic Intensity”可以理解为“持续性超越间歇性的强度”。这里的意思是说，持续的努力和坚持比偶尔的高强度努力更能带来深远和持久的变化。
+
+[^2]: 在这里，“crack”指的是问题或缺陷。整个短语“papers over the crack”意为掩盖问题或缺陷，但并没有真正解决问题。用中文解释就是“敷衍了事地解决表面问题，而没有从根本上进行修复”。
+
+[^3]: "flicker of hesitation"可以理解为“一闪而过的犹豫”，形象地描述了人们在决定是否在线上论坛发言时，内心中快速掠过的一种不确定感或犹疑。
+
+[^4]: 在这句话中，“crafting”指的是精心制作或精细打造的意思。整个短语“crafting a feature with care and precision”可以理解为用心和精确地设计或开发一个功能。这里的“crafting”强调了制作过程的细致与用心程度，而非草率完成。
+
+[^5]: 在这句话中，“ascent”指的是“攀登”或“提升”的意思。整个短语“The Ascent to Skill Mastery”可以理解为“通向技能掌握的攀登之路”，中文里可以解释为“迈向技能精通的过程”。这里强调的是一个逐步提高和精进技能的过程，而非一蹴而就的结果。
