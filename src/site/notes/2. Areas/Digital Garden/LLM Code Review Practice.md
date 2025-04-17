@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/digital-garden/llm-code-review-practice/","tags":["Action/TODO"],"created":"2025-04-17T19:56:00","updated":"2025-04-17 19:56"}
+{"dg-publish":true,"permalink":"/2. Areas/Digital Garden/LLM Code Review Practice/","tags":["Action/TODO"],"created":"2025-04-17T19:56:00","updated":"2025-04-17 19:56"}
 ---
 
 
