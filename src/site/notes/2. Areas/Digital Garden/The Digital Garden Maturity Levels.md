@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"The Digital Garden Maturity Levels.md","permalink":"/the-digital-garden-maturity-levels/","tags":["Seedling","Sapling","Tree","Withered","Stone","Signpost","Chest"],"created":"2025-04-18T19:36:00","updated":"2025-04-18 19:36"}
+{"dg-publish":true,"dg-path":"The Digital Garden Maturity Levels.md","permalink":"/the-digital-garden-maturity-levels/","tags":["Seedling","Sapling","Tree","Withered","Stone","Signpost","Chest"],"created":"2025-04-18T19:36:00.000Z","updated":"2025-04-18 19:49"}
 ---
+
 
 ## Navigating the Digital Garden: An Exploration of Maturity Levels
 
