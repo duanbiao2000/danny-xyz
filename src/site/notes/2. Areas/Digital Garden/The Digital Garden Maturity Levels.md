@@ -9,6 +9,8 @@ The digital garden, a concept that has captivated the attention of many, represe
 
 ### 1. Seedling: The Germination of Ideas
 
+>_"The beginning is the most important part of the work."_ - Plato
+
 In the digital garden, the "Seedling" stage embodies the very beginning of a thought. These are nascent ideas, fleeting observations, or initial musings—the seeds of potential insights. They might be raw, unrefined, and perhaps even a little messy. Yet, they are the most vital part of the garden. They represent the spark of curiosity, the initial inkling of a new concept. Their significance lies in their potential; they are the building blocks upon which more elaborate thoughts can be constructed. They remind us that even the most complex ideas begin with a simple seed.
 
 ### 2. Sapling: The Growing Mind
@@ -27,11 +29,16 @@ Not all ideas flourish forever. The "Withered" stage acknowledges the natural cy
 
 The "Stone" signifies the integration of external sources into the garden. These are notes, quotes, and references gathered from other sources that provide context and support for the core ideas. While stones themselves do not grow, they enrich the digital garden by providing a foundation of knowledge. They enhance our understanding and serve as a starting point for future inquiry.
 
+
 ### 6. Signpost: Guiding the Way
+
+>_"The purpose of life, after all, is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience."_ - Eleanor Roosevelt
 
 "Signposts" are navigational elements within the digital garden. They help readers to navigate the landscape, pointing them towards relevant topics or related content. They might include indexes, tables of contents, or thematic groupings. Like the signposts in a real garden, they offer guidance, improving the user experience and ensuring that the knowledge is easily accessible.
 
 ### 7. Chest: Tools for Application
+
+>_"The best way to predict the future is to invent it."_ - Alan Kay
 
 Finally, the "Chest" contains tools and resources that offer practical assistance. They don't "grow" in the same way as other ideas but are practical and offer immediate value. Think of these as the hand tools, the garden shears, or the watering can - these elements enable us to apply our knowledge and to further develop our capabilities.
 
