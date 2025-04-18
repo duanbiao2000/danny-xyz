@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/digital-garden/processing-speed-limits/","title":"Processing Speed Limits","created":"2025-04-17T19:38:00.000Z","updated":"2025-04-17 19:38"}
+{"dg-publish":true,"dg-path":"Processing Speed Limits.md","permalink":"/processing-speed-limits/","title":"Processing Speed Limits","created":"2025-04-17T19:38:00.000Z","updated":"2025-04-17 19:38"}
 ---
 
 

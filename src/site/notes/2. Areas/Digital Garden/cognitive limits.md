@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/digital-garden/cognitive-limits/","title":"cognitive limits","created":"2025-04-17 18:54"}
+{"dg-publish":true,"dg-path":"cognitive limits.md","permalink":"/cognitive-limits/","title":"cognitive limits","created":"2025-04-17 18:54"}
 ---
 
 认知极限指的是我们大脑在处理信息、保持专注、记忆、解决问题和做出决策时所固有的限制。它们并非固定不变的“硬上限”，但确实构成了我们当前能力的边界。
@@ -45,7 +45,7 @@
    - （写作）记录写特定章节或完成某部分修改用了多长时间。
 
 3. **寻求反馈 (Seeking Feedback):**
-   - **编程:** [[2. Areas/Digital Garden/LLM Code Review Practice\|LLM Code Review Practice]]。同事可能会指出你因工作记忆过载而忽略的逻辑漏洞，或因知识盲点造成的低效实现。
+   - **编程:** [[2. Areas/Digital Garden/LLMs in the Code Review Crucible\|LLMs in the Code Review Crucible]]。同事可能会指出你因工作记忆过载而忽略的逻辑漏洞，或因知识盲点造成的低效实现。
    - **写作:** 请他人阅读你的草稿。他们能否顺畅理解你的思路？结构是否清晰？论证是否充分？这些反馈能揭示你认知上的“盲区”。
 
 4. **识别触发因素 (Identifying Triggers):**

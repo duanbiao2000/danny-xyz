@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/digital-garden/the-quiet-craft-how-micro-decisions-forge-our-path-especially-in-code/"}
+{"dg-publish":true,"dg-path":"The Quiet Craft-How Micro-Decisions Forge Our Path-Especially in Code.md","permalink":"/the-quiet-craft-how-micro-decisions-forge-our-path-especially-in-code/"}
 ---
 
 
