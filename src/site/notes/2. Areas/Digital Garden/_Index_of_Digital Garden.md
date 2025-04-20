@@ -3,6 +3,7 @@
 ---
 
 
+ [[2. Areas/Digital Garden/Analyze essay structure\|Analyze essay structure]]
  [[2. Areas/Digital Garden/cognitive limits\|cognitive limits]]
  [[2. Areas/Digital Garden/LLMs in the Code Review Crucible\|LLMs in the Code Review Crucible]]
  [[2. Areas/Digital Garden/Premature Attention Depletion\|Premature Attention Depletion]]
