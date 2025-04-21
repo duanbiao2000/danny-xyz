@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-sphere/digital-garden/the-digital-garden-maturity-levels/","tags":["DG/Seedling","DG/Sapling","DG/Tree","Withered","DG/Stone","DG/Signpost","Chest"],"created":"2025-04-18T19:36:00.000Z","updated":"2025-04-18 19:49"}
+{"dg-publish":true,"permalink":"/2-sphere/digital-garden/the-digital-garden-maturity-levels/","tags":["DG/Seedling","DG/Sapling","DG/Tree","DG/Withered","DG/Stone","DG/Signpost","Chest"],"created":"2025-04-18T19:36:00.000Z","updated":"2025-04-18 19:49"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-sphere/digital-garden/index-of-digital-garden/","tags":["MOC","gardenEntry"]}
+{"dg-publish":true,"permalink":"/2-sphere/digital-garden/index-of-digital-garden/","tags":["DG/MOC","gardenEntry"]}
 ---
 
 
@@ -7,6 +7,9 @@
  [[2. Sphere/Digital Garden/Cognitive limits\|Cognitive limits]]
  [[2. Sphere/Digital Garden/Focus on developing your ideas\|Focus on developing your ideas]]
  [[2. Sphere/Digital Garden/LLMs in the Code Review Crucible\|LLMs in the Code Review Crucible]]
+ [[2. Sphere/Digital Garden/Part 1 Cultivating Your Inner Foundation Mindset and Perception\|Part 1 Cultivating Your Inner Foundation Mindset and Perception]]
+ [[2. Sphere/Digital Garden/Part 2 Taking the First Step The Power of Action and Execution\|Part 2 Taking the First Step The Power of Action and Execution]]
+ [[2. Sphere/Digital Garden/Part 3 Navigating the Human Sea The Wisdom of Relationships\|Part 3 Navigating the Human Sea The Wisdom of Relationships]]
  [[2. Sphere/Digital Garden/Premature Attention Depletion\|Premature Attention Depletion]]
  [[2. Sphere/Digital Garden/Processing Speed Limits\|Processing Speed Limits]]
  [[2. Sphere/Digital Garden/Scattered Thoughts on Living a More Beautiful Life\|Scattered Thoughts on Living a More Beautiful Life]]
