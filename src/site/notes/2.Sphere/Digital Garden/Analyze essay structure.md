@@ -12,7 +12,7 @@
 
 想象一下，我们将一篇优秀的范文当作一个精密的仪器，需要拆解来看。我们可以从几个层面入手：
 
-1.  **思想的孕育与发展：** 一篇打动人心的文章，其核心在于其观点是否深刻、独特，以及这些观点是否得到了充分、有力的论证。分析时，我们需要思考：作者提出了什么核心论点？他是如何展开的？用了哪些论据或例子来支撑？观点之间的逻辑联系是什么？这帮助我们学习如何[[improve your idea generation\|improve your idea generation]]（提升观点产生的能力）和[[2.Sphere/Digital Garden/Focus on developing your ideas\|Focus on developing your ideas]]（专注于发展观点）。写作不仅仅是遣词造句，更是对思想的梳理和深化。
+1.  **思想的孕育与发展：** 一篇打动人心的文章，其核心在于其观点是否深刻、独特，以及这些观点是否得到了充分、有力的论证。分析时，我们需要思考：作者提出了什么核心论点？他是如何展开的？用了哪些论据或例子来支撑？观点之间的逻辑联系是什么？这帮助我们学习如何[[improve your idea generation\|improve your idea generation]]（提升观点产生的能力）和[[Focus on developing your ideas\|Focus on developing your ideas]]（专注于发展观点）。写作不仅仅是遣词造句，更是对思想的梳理和深化。
 2.  **结构的骨骼与脉络：** 好的文章都有一副清晰的“骨架”。从引言如何提出问题，到主体段落如何层层推进，再到结论如何总结升华，每一部分都有其功能，段落与段落之间如何过渡自然、逻辑紧密？这正是[[Analyze the structure of the essays\|Analyze the structure of the essays]]（分析文章结构）的意义所在。一个清晰的结构能让读者毫不费力地跟随你的思路，极大地提升文章的[[readability\|readability]]（可读性）。
 3.  **语言的血肉与光泽：** ==结构是骨架，思想是灵魂，而语言则是赋予其血肉和光泽的艺术。==这包含几个关键要素：
     *   **衔接与连贯：** 句子与句子之间、段落与段落之间如何丝滑连接？通过[[Identify linking words and cohesive devices\|Identify linking words and cohesive devices]]（识别连接词和衔接手段），我们可以学习如何巧妙地使用“因此”、“然而”、“此外”等词汇，或通过代词、同义词复现等方式，让文章如行云流水般流畅。
