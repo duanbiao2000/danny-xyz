@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-sphere/digital-garden/premature-attention-depletion/","title":"Premature Attention Depletion","created":"2025-04-17T19:19:00","updated":"2025-04-17T19:20:00"}
+{"dg-publish":true,"dg-path":"Premature Attention Depletion.md","permalink":"/premature-attention-depletion/","title":"Premature Attention Depletion","created":"2025-04-17T19:19:00","updated":"2025-04-17T19:20:00"}
 ---
 
 

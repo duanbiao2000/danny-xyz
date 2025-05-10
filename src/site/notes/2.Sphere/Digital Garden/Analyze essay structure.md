@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-sphere/digital-garden/analyze-essay-structure/","created":"2024-12-11T11:10:00","updated":"2024-12-11T20:50:00"}
+{"dg-publish":true,"dg-path":"Analyze essay structure.md","permalink":"/analyze-essay-structure/","created":"2024-12-11T11:10:00","updated":"2024-12-11T20:50:00"}
 ---
 
 ### 跳出框架：从“真”范文中体悟写作的肌理与灵魂

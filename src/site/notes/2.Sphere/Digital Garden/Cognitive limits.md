@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-sphere/digital-garden/cognitive-limits/","title":"cognitive limits","created":"2025-04-17 18:54","updated":"2025-04-20 15:18"}
+{"dg-publish":true,"dg-path":"Cognitive limits.md","permalink":"/cognitive-limits/","title":"cognitive limits","created":"2025-04-17 18:54","updated":"2025-04-20 15:18"}
 ---
 
 

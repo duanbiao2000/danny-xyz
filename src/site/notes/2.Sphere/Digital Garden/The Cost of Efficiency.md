@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-sphere/digital-garden/the-cost-of-efficiency/","tags":["Mindset/Reflection","debate"],"created":"2025-05-10 13:24"}
+{"dg-publish":true,"dg-path":"The Cost of Efficiency.md","permalink":"/the-cost-of-efficiency/","tags":["Mindset/Reflection","debate"],"created":"2025-05-10 13:24"}
 ---
 
 ## A Problem-Solving Paradox

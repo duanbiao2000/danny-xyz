@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-sphere/digital-garden/the-quiet-power-of-looking-back/","title":"事后分析的价值","tags":["Mindset/Reflection"],"created":"2025-03-17T13:09:00","updated":"2025-03-17 01:09"}
+{"dg-publish":true,"dg-path":"The Quiet Power of Looking Back.md","permalink":"/the-quiet-power-of-looking-back/","title":"事后分析的价值","tags":["Mindset/Reflection"],"created":"2025-03-17T13:09:00","updated":"2025-03-17 01:09"}
 ---
 
 ## The Quiet Power of Looking Back: Hindsight, AI, and the Tapestry of Experience

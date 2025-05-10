@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-sphere/digital-garden/simple-made-easy/","created":"2025-04-20T11:45:00.000Z","updated":"2025-04-20 11:46"}
+{"dg-publish":true,"dg-path":"Simple Made Easy.md","permalink":"/simple-made-easy/","created":"2025-04-20T11:45:00.000Z","updated":"2025-04-20 11:46"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-sphere/digital-garden/scattered-thoughts-on-living-a-more-beautiful-life/","title":"關於如何更美好地存在的零星思緒","created":"2025-03-30 15:27"}
+{"dg-publish":true,"dg-path":"Scattered Thoughts on Living a More Beautiful Life.md","permalink":"/scattered-thoughts-on-living-a-more-beautiful-life/","title":"關於如何更美好地存在的零星思緒","created":"2025-03-30 15:27"}
 ---
 
 

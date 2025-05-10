@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-sphere/digital-garden/part-3-navigating-the-human-sea-the-wisdom-of-relationships/"}
+{"dg-publish":true,"dg-path":"Part 3 Navigating the Human Sea The Wisdom of Relationships.md","permalink":"/part-3-navigating-the-human-sea-the-wisdom-of-relationships/"}
 ---
 
 ## 三、 航行在人海中：人際與關係的智慧

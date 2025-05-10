@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-sphere/digital-garden/the-essence-and-boundaries-of-the-problem/","title":"问题的本质和边界","tags":["DG/Seedling"],"created":"2025-04-20T11:47:00.000Z","updated":"2025-04-20 15:09"}
+{"dg-publish":true,"dg-path":"The Essence & Boundaries of the Problem.md","permalink":"/the-essence-and-boundaries-of-the-problem/","title":"问题的本质和边界","tags":["DG/Seedling"],"created":"2025-04-20T11:47:00.000Z","updated":"2025-04-20 15:09"}
 ---
 
 

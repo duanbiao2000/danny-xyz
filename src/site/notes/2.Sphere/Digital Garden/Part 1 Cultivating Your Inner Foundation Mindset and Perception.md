@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-sphere/digital-garden/part-1-cultivating-your-inner-foundation-mindset-and-perception/"}
+{"dg-publish":true,"dg-path":"Part 1 Cultivating Your Inner Foundation Mindset and Perception.md","permalink":"/part-1-cultivating-your-inner-foundation-mindset-and-perception/"}
 ---
 
 ## 一、 耕耘內在基石：心態與認知的光影

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-sphere/digital-garden/part-2-taking-the-first-step-the-power-of-action-and-execution/"}
+{"dg-publish":true,"dg-path":"Part 2 Taking the First Step The Power of Action and Execution.md","permalink":"/part-2-taking-the-first-step-the-power-of-action-and-execution/"}
 ---
 
 ## 二、 踏出第一步：行動與執行的力量
